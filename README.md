@@ -33,6 +33,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharveshr/sharveshr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharveshr/sharveshr/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sharveshr/sharveshr/output/github-snake.svg" />
+</picture>
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/31ckby7ben2awdfzgkurtpn6gqsa">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ckby7ben2awdfzgkurtpn6gqsa&count=1" alt="Spotify recently played"  />
