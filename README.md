@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **arsharvesh024@gmail.com**
 
-- 📄 Know about my experiences [https://publuu.com/flip-book/885035/1938355](https://publuu.com/flip-book/885035/1938355)
+- 📄 Know about my experiences [https://pdflink.to/81b82833/](https://pdflink.to/81b82833/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
