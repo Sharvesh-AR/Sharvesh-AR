@@ -34,6 +34,10 @@
 
 ###
 
+<img src="https://streak-stats.demolab.com?user=sharvesh-ar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharveshr/sharveshr/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharveshr/sharveshr/output/github-snake.svg" />
