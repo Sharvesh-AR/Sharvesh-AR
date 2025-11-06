@@ -5,7 +5,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharvesh-ar&label=Profile%20views&color=0e75b6&style=flat" alt="sharvesh-ar" /> </p>
 
-- 🌱 I’m currently learning **Full Stack**
+- 👾 SDE intern @ Geolink Technology Pvt.Ltd.
+
+- 🌱 I’m currently learning **WordPress**
 
 - 📫 How to reach me **arsharvesh024@gmail.com**
 
