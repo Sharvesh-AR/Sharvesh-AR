@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Sharvesh</h1>
+<h1 align="center">Hello World<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="45px" width="45px">, I'm Sharvesh</h1>
 <h3 align="center">Technologia!</h3>
 
 ###
