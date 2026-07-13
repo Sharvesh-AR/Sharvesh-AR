@@ -5,11 +5,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharvesh-ar&label=Profile%20views&color=0e75b6&style=flat" alt="sharvesh-ar" /> </p>
 
-- 👾 SDE intern @ Geolink Technology Pvt.Ltd.
+- 👾 Developer @ INSTIQA.
 
-- 🌱 I’m currently learning **WordPress**
-
-- 📫 How to reach me **arsharvesh024@gmail.com**
+- 📫 How to reach me **arsharvesh123@gmail.com**
 
 - 📄 Know about my experiences [https://pdflink.to/81b82833/](https://pdflink.to/81b82833/)
 
