@@ -1,28 +1,29 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0e75b6,100:0d1117&amp;height=140&amp;section=header&amp;animation=twinkling" width="100%" alt="" />
-</p>
-
 <h1 align="center">
   Hello World
   <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif?raw=true" height="45px" width="45px" alt="Waving hand" />
   , I'm Sharvesh
 </h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/16-S-1a7f37?style=for-the-badge&labelColor=0d1117" alt="S" />
+  <img src="https://img.shields.io/badge/1-H-1a7f37?style=for-the-badge&labelColor=0d1117" alt="H" />
+  <img src="https://img.shields.io/badge/18-Ar-1a7f37?style=for-the-badge&labelColor=0d1117" alt="Ar" />
+  <img src="https://img.shields.io/badge/23-V-1a7f37?style=for-the-badge&labelColor=0d1117" alt="V" />
+  <img src="https://img.shields.io/badge/99-Es-1a7f37?style=for-the-badge&labelColor=0d1117" alt="Es" />
+  <img src="https://img.shields.io/badge/1-H-1a7f37?style=for-the-badge&labelColor=0d1117" alt="H" />
+</p>
+
 <h3 align="center">Technologia!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=3200&amp;pause=1200&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=40&amp;lines=Developer+%40+INSTIQA;Building+things+for+the+web;Learning+new+technologies;Code.+Build.+Learn.+Repeat." alt="Developer @ INSTIQA" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=84CC16&center=true&vCenter=true&width=480&height=40&lines=Developer+%40+INSTIQA;I+am+the+one+who+codes.;Building+things+for+the+web;Code.+Build.+Learn.+Repeat." alt="Developer @ INSTIQA" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharvesh-ar&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat-square" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sharvesh-AR.Sharvesh-AR&left_text=Profile%20Views&left_color=0d1117&right_color=1a7f37" alt="Profile Views" />
 </p>
 
 <br />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1117,50:2f81f7,100:0d1117&amp;height=2&amp;section=header" width="100%" height="2" alt="" />
-</p>
 
 <h3 align="center">About</h3>
 
@@ -56,9 +57,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1117,50:2f81f7,100:0d1117&amp;height=2&amp;section=header" width="100%" height="2" alt="" />
-</p>
+<br />
 
 <img align="right" height="145" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG0wNW9hcWp6NnpmMXlyNWUwcXF6MHlncHNkYThidjVoYXl2b3ZuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif" alt="" />
 
@@ -104,14 +103,12 @@
 
 <br clear="right" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1117,50:2f81f7,100:0d1117&amp;height=2&amp;section=header" width="100%" height="2" alt="" />
-</p>
+<br />
 
 <h3 align="center">GitHub Streak</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sharvesh-ar&amp;locale=en&amp;mode=daily&amp;theme=dracula&amp;hide_border=true&amp;border_radius=8" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sharvesh-ar&locale=en&mode=daily&hide_border=true&border_radius=8&background=0d1117&ring=84cc16&fire=84cc16&currStreakNum=84cc16&sideNums=ffffff&currStreakLabel=84cc16&sideLabels=9ca3af&dates=6b7280" height="150" alt="GitHub Streak" />
 </p>
 
 <br />
@@ -130,8 +127,4 @@
 
 <p align="center">
   <i>Code. Build. Learn. Repeat.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0e75b6,100:0d1117&amp;height=100&amp;section=footer" width="100%" alt="" />
 </p>
