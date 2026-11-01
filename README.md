@@ -36,7 +36,7 @@
   <br />
   <a href="mailto:arsharvesh123@gmail.com">arsharvesh123@gmail.com</a>
   &nbsp;·&nbsp;
-  <a href="https://ar-sharvesh.vercel.app">Say my name</a>
+  <a href="https://ar-sharvesh.vercel.app" target="_blank">Say my name</a>
 </p>
 
 <br />
